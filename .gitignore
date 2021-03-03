@@ -1,0 +1,7 @@
+tradebot_env/*
+tradebot_env
+
+.vscode
+.vscode/*
+
+src/__pycache__

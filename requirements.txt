@@ -1,0 +1,8 @@
+python-binance 
+numpy
+pandas 
+websocket_client
+nsepy
+ta
+sklearn
+#TA-Lib
